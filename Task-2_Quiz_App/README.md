@@ -2,6 +2,8 @@
 
 A modern, feature-rich quiz application built with Flutter and Riverpod for state management.
 
+**Task 2 of the CodSoft Internship**
+
 ## Features
 
 - **Beautiful UI Design**: Gradient backgrounds, rounded cards, and smooth animations
