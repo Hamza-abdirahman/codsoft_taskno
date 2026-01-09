@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📝 To-Do List App
 
 A comprehensive and feature-rich task management application built with Flutter and Hive for local storage. This app helps you organize your daily tasks, track progress, and stay productive with an intuitive and beautiful interface.
